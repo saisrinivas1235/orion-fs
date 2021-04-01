@@ -1274,51 +1274,7 @@
             "osType": "Android",
             "id": "15"
           },
-          {
-            "deviceType": "Tablet",
-            "lastAppInstallTimestamp": "1999-12-01 18:30:00.0",
-            "lastAppInstallUserId": "",
-            "deviceId": "427",
-            "lastAppInstallType": "",
-            "appChannel": "Tablet",
-            "lastAppInstallVersion": "10",
-            "deviceToken": "135",
-            "lastAppInstallMode": "",
-            "osVersion": "10.6",
-            "appId": "34",
-            "osType": "Android",
-            "id": "16"
-          },
-          {
-            "deviceType": "Laptop",
-            "lastAppInstallTimestamp": "1999-12-01 18:30:00.0",
-            "lastAppInstallUserId": "",
-            "deviceId": "428",
-            "lastAppInstallType": "",
-            "appChannel": "Laptop",
-            "lastAppInstallVersion": "12",
-            "deviceToken": "132",
-            "lastAppInstallMode": "",
-            "osVersion": "98",
-            "appId": "88",
-            "osType": "Unix",
-            "id": "17"
-          },
-          {
-            "deviceType": "Laptop",
-            "lastAppInstallTimestamp": "1999-12-01 18:30:00.0",
-            "lastAppInstallUserId": "",
-            "deviceId": "429",
-            "lastAppInstallType": "",
-            "appChannel": "Laptop",
-            "lastAppInstallVersion": "12",
-            "deviceToken": "133",
-            "lastAppInstallMode": "",
-            "osVersion": "98",
-            "appId": "88",
-            "osType": "Windoes",
-            "id": "18"
-          }
+
         ]
       }
     ]
